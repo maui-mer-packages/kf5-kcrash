@@ -9,7 +9,7 @@ Name:       kcrash
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 2 addon for application crashes
-Version:    5.2.0
+Version:    5.3.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
