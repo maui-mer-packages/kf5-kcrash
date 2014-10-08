@@ -7,7 +7,6 @@ Summary      : KDE Frameworks 5 Tier 2 addon for application crashes
 Description  : |
   KCrash provides support for intercepting and handling application crashes.
 URL          : http://www.kde.org
-SetupOptions : -q -n %{name}-%{version}/upstream
 
 Sources:
     - "%{name}-%{version}.tar.xz"
